@@ -5,8 +5,13 @@ import shutil
 from moviepy.editor import ImageSequenceClip
 
 
+<<<<<<< HEAD
 VIDEO_PATH = "inputs/samp2.mp4"        
 IMG_PATH = "inputs/img2.png"           
+=======
+VIDEO_PATH = "inputs/samp1.mp4"        
+IMG_PATH = "inputs/img1.png"           
+>>>>>>> 18d59ce64aba9bb32be80b4aac53d33a1638b2f5
 OUTPUT_VIDEO = "outputs/Redacted_Video.mp4"
 
 
